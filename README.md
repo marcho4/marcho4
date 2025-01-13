@@ -2,7 +2,7 @@
 Hello, my name is Mark, I'm a passionate developer from Russia
 
 ## My skills
-C#, C++, Python, TypeScript, SQL, Docker
+I have expirience coding in Python, Rust, C#, C++, RISC-V, JavaScript.</br>Docker, Redis, MongoDB, PostgreSQL, Actix-Web Framework, Aiogram Framework
 
 ## Education
 - Yandex Lyceum Python 2021-2023
