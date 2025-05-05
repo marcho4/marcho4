@@ -1,8 +1,10 @@
 ## About me
-Hello, my name is Mark, I'm a passionate developer from Russia
+Hello, my name is Mark, I'm a passionate 👨🏻‍💻 developer from Russia 🇷🇺.
 
 ## My skills
-I have expirience coding in Python, Rust, C#, C++, RISC-V, JavaScript.</br>Docker, Redis, MongoDB, PostgreSQL, Actix-Web Framework, Aiogram Framework
+I have expirience coding in Python, Rust, C++, JavaScript, React, Next.js, Tailwind CSS.
+</br>
+Docker, Redis, MongoDB, PostgreSQL, Actix-Web Framework, Aiogram Framework.
 
 ## Education
 - Yandex Lyceum Python 2021-2023
@@ -11,4 +13,4 @@ I have expirience coding in Python, Rust, C#, C++, RISC-V, JavaScript.</br>Docke
 
 ## Currently Working On
 - Studying Algorithms and Data Structures
-- Web3 Development
+- Full Stack Web Development
