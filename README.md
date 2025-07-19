@@ -12,5 +12,5 @@ Docker, Redis, MongoDB, PostgreSQL, Actix-Web Framework, Aiogram Framework.
 - HSE Software Engineering 27'
 
 ## Currently Working On
-- Studying Algorithms and Data Structures
-- Full Stack Web Development
+- C++ Backend Development
+- Frontend Development
