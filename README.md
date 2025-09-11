@@ -1,5 +1,5 @@
 ## About me
-Hello, my name is Mark, I'm a passionate developer from Russia. </br>Currently I'm studying in HSE FCS Software Engineering and working as a backend C++ dev in Yandex Metrika.
+Hello, my name is Mark, I'm a passionate developer from Russia. </br>Currently I'm studying in HSE FCS Software Engineering and working as a SE.
 
 ## My skills
 I have expirience coding in C++, Python, Rust.
