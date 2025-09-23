@@ -1,14 +1,14 @@
 ## About me
-Hello, my name is Mark, I'm a passionate developer from Russia. </br>Currently I'm studying in HSE FCS Software Engineering and working as a SE.
+Hello, my name is Mark, I'm a passionate developer from Russia. </br>Currently I'm studying in HSE FCS Software Engineering.
 
 ## My skills
 I have expirience coding in C++, Python, Rust.
 </br>
 Have basic knowledge of React + Tailwind + Typescript.
 </br>
-Worked a lot with docker.
+Worked actively with docker.
 </br>
-Familiar with Redis, MongoDB, PostgreSQL, Actix-Web Framework (Rust), Aiogram Framework (Python).
+Familiar with Actix-Web Framework (Rust), Aiogram Framework (Python).
 
 ## Education
 - Yandex Lyceum Python 2021-2023
@@ -21,4 +21,4 @@ Familiar with Redis, MongoDB, PostgreSQL, Actix-Web Framework (Rust), Aiogram Fr
 
 ## Job experience 
 - Hse front-end engineer - 4 months
-- Yandex C++ backend intern - 2 months
+- Yandex C++ backend intern - 3 months
