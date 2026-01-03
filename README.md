@@ -2,14 +2,13 @@
 Hello, my name is Mark, I'm a passionate developer from Russia. </br>Currently I'm studying in HSE and working as a Backend Dev in Yandex.
 
 ## My skills
-C++                           - 2 years of coding
-React + Tailwind + Typescript - 6 months of coding
-Go                            - 4 months of coding
-Rust                          - 6 months of coding
-Docker
-Kafka
-Redis
-
+C++                           - 2 years of coding </br>
+React + Tailwind + Typescript - 6 months of coding </br>
+Go                            - 4 months of coding </br>
+Rust                          - 6 months of coding </br>
+Docker </br>
+Kafka </br>
+Redis </br>
 
 ## Education
 - Yandex Lyceum Python     2021 - 2023
