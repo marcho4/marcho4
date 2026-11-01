@@ -7,6 +7,7 @@ React + Tailwind + Typescript - 6 months of coding </br>
 Go                            - 4 months of coding </br>
 Rust                          - 6 months of coding </br>
 Docker </br>
+Kubernetes </br>
 Kafka </br>
 Redis </br>
 
@@ -14,6 +15,8 @@ Redis </br>
 - Yandex Lyceum Python     2021 - 2023
 - HSE Software Engineering 2023 - 2027
 - T-bank Academy Go        2025 - 2026
+- T-Bank Academy SRE       2026 - 2027
+- T-Bank System Design     2026 - 2027
 
 ## Currently learning
 - Go
